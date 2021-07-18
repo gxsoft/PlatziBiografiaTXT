@@ -1,5 +1,5 @@
 Mi nombre es Gabriel Medina
 
-Soy programador de GeneXus.
-En mis tiempos libres navego en velero.
-Escribo programas y estudio de forma autodidacta.
+Soy programador de GeneXus & Python.
+En mis tiempos libres navego en Internet.
+Escribo programas y estudio en Platzi de forma guiada y autodidacta.
