@@ -1,0 +1,44 @@
+[33mcommit 502da61dd4e9e285d087d9612d719251420af4c7[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: gxsoft <gxsoft@gmail.com>
+Date:   Mon Jul 19 19:58:35 2021 -0300
+
+    Agregué el tiempo + blogspot.html
+
+[1mdiff --git a/biografia.txt b/biografia.txt[m
+[1mindex 16d39fe..aad600e 100644[m
+[1m--- a/biografia.txt[m
+[1m+++ b/biografia.txt[m
+[36m@@ -2,7 +2,9 @@[m [mMi nombre es Gabriel Medina[m
+ [m
+ Soy programador de GeneXus & Python.[m
+ En mis tiempos libres navego en Internet.[m
+[31m-Y además en Platzi...[m
+[32m+[m[32mY además en Platzi... ...[m
+ Con el gran Freddy Vega (@Freddier)[m
+ Bio Cloned! (11:49hs)[m
+[31m-y agora, desde Windows! 11:59hs (with STASHED changes)[m
+\ No newline at end of file[m
+[32m+[m[32my agora, desde Windows! 11:59hs (with STASHED changes)[m
+[32m+[m
+[32m+[m[32mLe agrego el tiempo 19:55hs[m
+\ No newline at end of file[m
+[1mdiff --git a/blogpost.html b/blogpost.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..3664e7f[m
+[1m--- /dev/null[m
+[1m+++ b/blogpost.html[m
+[36m@@ -0,0 +1,13 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html lang="en">[m
+[32m+[m[32m<head>[m
+[32m+[m[32m    <meta charset="UTF-8">[m
+[32m+[m[32m    <meta http-equiv="X-UA-Compatible" content="IE=edge">[m
+[32m+[m[32m    <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[32m+[m[32m    <title>BLOG Ubuntu</title>[m
+[32m+[m[32m</head>[m
+[32m+[m[32m<body>[m
+[32m+[m[32m    <h1>Here we going to make a BLOG post</h1>[m
+[32m+[m[32m    <p>And this is de the init paragraph.</p>[m
+[32m+[m[32m</body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m

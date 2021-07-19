@@ -1,0 +1,45 @@
+commit 502da61dd4e9e285d087d9612d719251420af4c7
+Author: gxsoft <gxsoft@gmail.com>
+Date:   Mon Jul 19 19:58:35 2021 -0300
+
+    Agregué el tiempo + blogspot.html
+
+commit ff7b5f44330478a9c1fd9fdccdb381d2404e0980
+Author: Gabriel Medina <gxsoft@gmail.com>
+Date:   Sun Jul 18 12:00:35 2021 -0300
+
+    from Windows 12:00
+    
+    Version from Win 12:00, from Stashed changes... queloqué
+
+commit 12ac27bfb94a730a3910029a51a67b94e628206a
+Author: gxsoft <gxsoft@gmail.com>
+Date:   Sun Jul 18 11:52:50 2021 -0300
+
+    commit from Cloned
+
+commit 1bf59a816027b15f4bc803d3acfbaf458a8d97a0
+Author: Gabriel Medina <gxsoft@gmail.com>
+Date:   Sun Jul 18 10:13:59 2021 -0300
+
+    V2, desde Windows
+    
+    Esto es parte de Un curso Platzi
+
+commit 397d4ffae2909c71b07a2f2e874a22f499fa79f2
+Author: Gabriel Medina <gxsoft@gmail.com>
+Date:   Sun Jul 18 10:12:16 2021 -0300
+
+    Update biografia.txt
+
+commit f76b8234fbe66839bb738cd3d575950a646bc072
+Author: gxsoft <gxsoft@gmail.com>
+Date:   Sun Jul 18 10:05:55 2021 -0300
+
+    cambios v1, Platzi
+
+commit 0c68adc3b872b4c64a82df5f165e1b595d053a03
+Author: gxsoft <gxsoft@gmail.com>
+Date:   Sun Jul 18 10:00:07 2021 -0300
+
+    first commit
