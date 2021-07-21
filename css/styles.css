@@ -1,6 +1,6 @@
 body
 { 
-    color: rgb(253, 2, 2);
+    color: rgb(51, 51, 51);
     text-align: center;
     font-family: "verdana";
     font-size: 16px;
@@ -49,7 +49,7 @@ body
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: 1px solid #DDD;
+    border: 1px solid rgb(221, 221, 221);
     margin: 0 auto;
 }
 
