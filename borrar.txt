@@ -1,0 +1,925 @@
+    1  sudo apt install doublecmd-qt
+    2  doublecmd
+    3  OB
+    4  pwd
+    5  sudo mkdir projects
+    6  apt list --upgradable
+    7  pwd
+    8  cd
+    9  cd ..
+   10  pwd
+   11  ls
+   12  cd ..
+   13  ls
+   14  cd home
+   15  cd gxsoft
+   16  pwd
+   17  cls
+   18  clear
+   19  cd /
+   20  pwd
+   21  ls
+   22  cd mnt
+   23  ls
+   24  cd c
+   25  ls
+   26  cd users
+   27  ls
+   28  cd GabrielMedina
+   29  ls
+   30  ls -p
+   31  ls
+   32  pwd
+   33  cd..
+   34  cd 
+   35  sudo apt-get update
+   36  sudo install ms
+   37  sudo install mc
+   38  sudo apt-get install mc
+   39  mc
+   40  doublecmd
+   41  qt
+   42  mc
+   43  sudo mc
+   44  ls
+   45  dir
+   46  md tmp
+   47  mkdir tmp
+   48  clear
+   49  cd projects
+   50  cd demo
+   51  touch index.html
+   52  sudo touch index.html
+   53  sudo
+   54  ls
+   55  mc
+   56  ode
+   57  code
+   58  cd
+   59  pwd
+   60  ls
+   61  mc
+   62  ls
+   63  cd projects
+   64  cd demo
+   65  code .
+   66  cd .
+   67  cd
+   68  cd projects
+   69  cd demo
+   70  code .
+   71  touch index2.html
+   72  logout
+   73  exit
+   74  sudo 
+   75  sudo login
+   76  sudo
+   77  sudo code .
+   78  sudo -u gxsoft
+   79  cd
+   80  cd projects
+   81  cd demo
+   82  sudo code 
+   83  path
+   84  dir
+   85  ls
+   86  cd
+   87  mc
+   88  cd projects
+   89  cd demo
+   90  code .
+   91  ls
+   92  code .
+   93  cd
+   94  sudo mkdir demo2
+   95  ls
+   96  mv demo2 projects
+   97  mkdir hello
+   98  ls
+   99  cd hello
+  100  code .
+  101  sudo
+  102  sudo login
+  103  mc
+  104  sudo mc
+  105  code .
+  106  cd projects
+  107  cd demo
+  108  code .
+  109  mc
+  110  sudo mc
+  111  ls
+  112  sudo 
+  113  cd 
+  114  cd projects
+  115  cd demo
+  116  sudo code .
+  117  code .
+  118  cd 
+  119  cd home
+  120  cd projects
+  121  cd demo
+  122  sudo code .
+  123  code .
+  124  sudo
+  125  sudo gxsoft
+  126  sudo
+  127  sudo code
+  128  sudo gxsoft
+  129  exit
+  130  cd projects
+  131  cd home
+  132  ls
+  133  cd demo
+  134  sudo code .
+  135  code
+  136  sudo code
+  137  sudo mc
+  138  code
+  139  sudo mc
+  140  code
+  141  path
+  142  sudo mc
+  143  cd
+  144  ls
+  145  pwd
+  146  sudo mkdir projects
+  147  cd projects
+  148  sudo mkdir demo
+  149  cd demo
+  150  pwd
+  151  touch index.htlm
+  152  touch index.html
+  153  sudo touch index.html
+  154  sudo code .
+  155  code
+  156  chmod
+  157  ls
+  158  ls -v
+  159  ls -d
+  160  ls 
+  161  ls -help
+  162  ls --help
+  163  ls -l
+  164  mkdir dirtmp
+  165  sudo mkdir dirtmp
+  166  ls -l
+  167  ssh gxsoft
+  168  ssh gxsoft@gabDell
+  169  ssh gxsoft@0.0.0.0
+  170  ssh gxsoft
+  171  sudo apt update
+  172  apt list --upgradable
+  173  0;25;1M
+  174  cd
+  175  mkadir tmp1
+  176  mkdir tmp1
+  177  cd tmp1
+  178  mkadir demo
+  179  mkdir demo
+  180  cd demo
+  181  touch index.html
+  182  code .
+  183  ls
+  184  cat index.html
+  185  mc
+  186  man cat
+  187  cd ~
+  188  sudo apt-get update
+  189  sudo apt-get upgrade
+  190  sudo apt install nodejs
+  191  node -v
+  192  sudo apt install npm
+  193  npm -v
+  194  node -v
+  195  npm -v
+  196  sudo apt install 
+  197  clear
+  198  npx
+  199  mc
+  200  mkdir projects
+  201  mc
+  202  sudo mc
+  203  mkdir projects
+  204  cd projects
+  205  mkdir demo
+  206  cd
+  207  code .
+  208  cd projects
+  209  cd demo
+  210  code .
+  211  adduser gxsoft sudo
+  212  cd ..
+  213  cd ,,
+  214  cd ..
+  215  ls
+  216  cd root
+  217  sudo apt update
+  218  apt list --upgradable
+  219  cd projects
+  220  cd demo
+  221  ls
+  222  code
+  223  cd
+  224  cd projects
+  225  cd test
+  226  ls
+  227  code
+  228  ls
+  229  mc
+  230  code .
+  231  sudo chown -R gxsoft ~/projects
+  232  npm start
+  233  cd ~
+  234  mc
+  235  rm 
+  236  rm index.html
+  237  rm -rf test
+  238  git --version
+  239  sudo apt-get update
+  240  sudo apt-get upgrade
+  241  sudo apt install git
+  242  clear
+  243  cd
+  244  ssh-keygen -t rsa -b 4096 gxsoft@gmail.com
+  245  ssh-keygen -t rsa -b 4096
+  246  mc
+  247  ssh-keygen -t rsa -b 4096 -gxsoft@gmail.com
+  248  ssh-keygen -t rsa -b 4096 gxsoft@gmail.com
+  249  ssh-keygen -t rsa -b 4096 -n gxsoft@gmail.com
+  250  mc
+  251  ls
+  252  eval "$(ssh-agent -s)"
+  253  clear
+  254  ssh-copy-id gxsoft@gmail.com
+  255  cd /.ssh
+  256  cd ~/.ssh
+  257  ls
+  258  cat id_rsa.pub
+  259  ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDTlNL+FxvXNqhFpTvPNlFM20LeWGoy+YpboA2DVC8bRNXXAyjfR+6XsCSsDL4Hy8lxFR8S6LT4hiv9O8D/AjpAS903pFvRA9vqzxHml1OzRHBercx9stLFOpho+UWlVVskNR/atLePs1bKaiZgKa8bzhP0GIuSK7X94kdVOsIvpSfmmfgcAhneULAMkj6QTpBHK+AvWh33+pOtb4X1UPozJDxGmjaxms6HoLteR9pRpAvBluWcR8WzX6DHBeHqS68Cfto4IOIt31yryIodE2jDnwoC1Hk24ycVFiTA7OeDGjpSE1DF2FTfS5eG7a613cKZtAHx0yhCB+GlboS21tNnLHsxC5WxyP63lqdRpUYsc8x+RrghlS2CO4yT3K0rS/MP4HRojXQFKrKpo8UWphY6mMYOP4taQrvr4VDjmTtx69zCboolnWjXYy9kHHzQgbVA59wOuPBymhWFDo4xU6qlXerGOkJAasgMbCt4vMptCRgzLHw5ptS5q3uGsxlgVLttjSHQz0BGGtMglELQ8Kn2HmOnt48lMtA7+8Kxn42vO+/WjzSVQL3sjtgMz3cCKBoaFj8PV1NXAtrclH8Cwri/1mtbRK1+9cfgrWTEvXtneH8TT1xYtY/xoY0rUSzKe6jULlMIBYh13G1Nr8t8ttNDBtmQcTtbd4FWLaDmigLyMQ== gxsoft@gabDell
+  260  clear
+  261  mc
+  262  cd ~
+  263  mc
+  264  cd ..
+  265  npx create-react-app test
+  266  ls
+  267  cd test
+  268  npm test
+  269  npm start
+  270  ls
+  271  mc
+  272  code .
+  273  git init
+  274  git add biografia.txt
+  275  echo "# PlatziBiografiaTXT" >> README.md
+  276  git add README.md
+  277  git commit -m "first commit"
+  278  git branch -M main
+  279  git remote add origin https://github.com/gxsoft/PlatziBiografiaTXT.git
+  280  git push -u origin main
+  281  cd
+  282  ls
+  283  cd projects
+  284  ls
+  285  cd preWorkPLatzi
+  286  mc
+  287  clear
+  288  mkdir preWorkPlatzi
+  289  cd preWorkPlatzi
+  290  code .
+  291  ls
+  292  cd
+  293  mkdir PlatziPreWork
+  294  cd PlatziPreWork
+  295  code .
+  296  ls
+  297  code .
+  298  ls
+  299  echo "# PlatziPrework" >> README.md
+  300  ls
+  301  git init
+  302  git add .
+  303  ls
+  304  git commit -m "first commit"
+  305  git config --global user.email "gxsoft@gmail.com"
+  306  git config --global user.name "gab"
+  307  git config --global user.name gxsoft
+  308  git config --edit --global
+  309  code .
+  310  git commit -m "first commit"
+  311  git branch -M main
+  312  git remote add origin https://github.com/gxsoft/PlatziPrework.git
+  313  git push -u origin main
+  314  git add .
+  315  git branch -m "cambios cuentas de CelisMX"
+  316  git commit -m "cambios cuentas de CelisMX"
+  317  git push -u origin main
+  318  clear
+  319  cd..
+  320  cd
+  321  ls
+  322  mc
+  323  git push -u origin main
+  324  ls
+  325  cd PlatziGit
+  326  ls
+  327  mc
+  328  mkdir PlatziBigrafiaTXT
+  329  code .
+  330  echo "# PlatziBiografiaTXT" >> README.md
+  331  git init
+  332  git add README.md
+  333  git add biografia.txt
+  334  git commit -m "first commit"
+  335  git branch -M main
+  336  git remote add origin https://github.com/gxsoft/PlatziBiografiaTXT.git
+  337  git push -u origin main
+  338  code .
+  339  git add .
+  340  git commit -m "cambios v1, Platzi"
+  341  git status
+  342  git show
+  343  git log biografia.txt
+  344  git push
+  345  git pull
+  346  code .
+  347  cd
+  348  clear
+  349  ls
+  350  mc
+  351  cd
+  352  pwd
+  353  apt-get
+  354  apt-get updte
+  355  apt-get update
+  356  apt-get upgrade
+  357  apt-get update
+  358  sudo apt-get update
+  359  sudo apt-get upgrade
+  360  clear
+  361  git pwd
+  362  git -v
+  363  git --version
+  364  mc
+  365  pws
+  366  pwd
+  367  ls
+  368  cd PlatztGit
+  369  cd PlatziGit
+  370  l
+  371  ls
+  372  cd PlatziBiografiaTXT
+  373  mkdir PlatziBiografiaTXT
+  374  cd PlatziBiografiaTXT
+  375  ls
+  376  code .
+  377  ls
+  378  echo echo "# PlatziBiografiaTXT" >> README.md
+  379  git init
+  380  git add .
+  381  git commit -m "first commit bio"
+  382  git branch -M main
+  383  git remote add origin https://github.com/gxsoft/PlatziBiografiaTXT.git
+  384  git push -u origin main
+  385  git pull
+  386  git push -u origin main
+  387  rm .
+  388  rm -d .
+  389  mc
+  390  cd ~
+  391  cd PlatziGit
+  392  ls
+  393  git pull 
+  394  git
+  395  git fetch 
+  396  mkdir PlatziBiografiaTXT
+  397  cd PlatziBiografiaTXT
+  398  get int
+  399  get init
+  400  git init
+  401  git pull
+  402  git pull remote
+  403  git pull PlatziBiografiaTXT
+  404  git pull gxsoft/PlatziBiografiaTXT
+  405  git pull remote
+  406  git pull 'gxsoft/PlatziBiografiaTXT'
+  407  git pull gxsoft/PlatziBiografiaTXT
+  408  git clone https://github.com/gxsoft/PlatziBiografiaTXT
+  409  mc
+  410  cd
+  411  ls
+  412  cd PlatziGit
+  413  ls
+  414  git clone https://github.com/gxsoft/PlatziBiografiaTXT
+  415  ls
+  416  cd PlatziBiografiaTXT
+  417  ls
+  418  mc
+  419  clear
+  420  git commit -m "commit from Cloned"
+  421  git add .
+  422  git commit -m "commit from Cloned"
+  423  git branch -M main
+  424  git remote add origin https://github.com/gxsoft/PlatziBiografiaTXT
+  425  git push -u origin main
+  426  clear
+  427  git log
+  428  cd
+  429  ls
+  430  cd platzigit
+  431  cd PlatziGit
+  432  ls
+  433  cd PlatziBiografiaTXT
+  434  ls
+  435  git fetch
+  436  code .
+  437  git remote -v
+  438  git pull origin main
+  439  code .
+  440  git pull origin main
+  441  sudo apt-get python39
+  442  apt-get python
+  443  apt-get update
+  444  sudo apt install python3.9
+  445  python3.9 --version
+  446  cd ~
+  447  ls
+  448  cd ..
+  449  ls
+  450  cd..
+  451  ls
+  452  cd ..
+  453  cdl
+  454  ls
+  455  cd run
+  456  ls
+  457  mc
+  458  sudo mc
+  459  clear
+  460  cd
+  461  md py
+  462  mkdir py
+  463  cd py
+  464  mkdir pygab
+  465  cd pygab
+  466  sudo apt install python3-pip
+  467  pip3 --version
+  468  mc
+  469  cd
+  470  ls
+  471  mc
+  472  clear
+  473  ls
+  474  cd PlatziGit
+  475  ls
+  476  pwud
+  477  pwd
+  478  cd /
+  479  ls
+  480  cd ~
+  481  ls -al
+  482  ls -l
+  483  ls -al
+  484  ls -a
+  485  clear
+  486  ls -al
+  487  cd /c
+  488  mc
+  489  ks
+  490  ls
+  491  cd /mnt
+  492  cd c
+  493  ls
+  494  ls -a
+  495  ls -l
+  496  cd ~
+  497  cd
+  498  cd projects/
+  499  ls -al
+  500  cd ..
+  501  cd
+  502  pwd
+  503  ls -al
+  504  ls -a
+  505  ls -l
+  506  cd PlatziGit
+  507  mkdir project1
+  508  cd project1/
+  509  touch vacio.txt
+  510  cat vacio.txt
+  511  code vacio.txt
+  512  cat vacio.txt
+  513  history
+  514  ?510
+  515  cat vacio.txt
+  516  history
+  517  rm vacio.txt
+  518  ls
+  519  rm --help
+  520  rm --help >>rmHELP.txt
+  521  cat rmHELP.txt
+  522  clear
+  523  mc
+  524  sudo apt update
+  525  sudo apt upgrade
+  526  sudo apt-get pip
+  527  cd 
+  528  mc
+  529  pwd
+  530  cd project1
+  531  ls
+  532  rm rmHELP.txt
+  533  git ini
+  534  git init
+  535  ls -al
+  536  code .
+  537  ls
+  538  code history.txt
+  539  cat history.txt 
+  540  prompt 
+  541  clear
+  542  ls -al
+  543  git status
+  544  git add history.txt
+  545  git status
+  546  git rm
+  547  git status
+  548  git rm history.txt
+  549  git status
+  550  git rm --cached history.txt
+  551  git status
+  552  git add history.txt
+  553  git status
+  554  git commit -m "this is first commit"
+  555  git config
+  556  git list
+  557  git config
+  558  git config --list
+  559  git config --list --show-origin
+  560  clear
+  561  ls
+  562  code .
+  563  git .
+  564  git add .
+  565  git commit -m "this is second commit, with age"
+  566  git log
+  567  cd
+  568  ls
+  569  cd PlatziGit
+  570  ls
+  571  git log
+  572  git show
+  573  code .
+  574  code blogpost.html
+  575  git add
+  576  cd 
+  577  ls
+  578  cd PlatziGit
+  579  cd project1
+  580  ls
+  581  git status
+  582  git log
+  583  code history.txt
+  584  git add .
+  585  git status
+  586  git add ,
+  587  git add .
+  588  git status
+  589  git commit -m "the last one, with time"
+  590  git status
+  591  git log
+  592  remote add origin https://github.com/gxsoft/PlatziBiografiaTXT
+  593  git remote add origin https://github.com/gxsoft/PlatziBiografiaTXT
+  594  git push -u origin main
+  595  mc
+  596  cd ..
+  597  ls
+  598  git PlatziBiografiaTXT
+  599  cd PlatziBiografiaTXT/
+  600  ls
+  601  git add
+  602  git add.
+  603  git add .
+  604  git status
+  605  clear
+  606  code .
+  607  git show
+  608  git add .
+  609  git commit
+  610  cd ~
+  611  cd PlatziGit
+  612  ls
+  613  cd PlatziBiografiaTXT
+  614  ls
+  615  code .
+  616  git add .
+  617  git status
+  618  git commit "Agregue el tiempo + blogspot.html"
+  619  git commit -m "Agregué el tiempo + blogspot.html"
+  620  git status
+  621  git push
+  622  vim
+  623  cd ~
+  624  cd PlatziGit
+  625  cd PlatziBiograTXT
+  626  ls
+  627  cd PlatziBiografiaTXT
+  628  code .
+  629  git add .
+  630  ls -al
+  631  git show
+  632  clear
+  633  git log
+  634  clear
+  635  git log >>log.txt
+  636  git diff 
+  637  git diff 502da61dd4e9e285d087d9612d719251420af4c7 ff7b5f44330478a9c1fd9fdccdb381d2404e0980
+  638  git log biografia.txt
+  639  git diff ff7b5f44330478a9c1fd9fdccdb381d2404e0980 502da61dd4e9e285d087d9612d719251420af4c7
+  640  ls
+  641  ls -a
+  642  ls -l
+  643  ls -al
+  644  git status
+  645  git add .
+  646  git status
+  647  git commit -m "last version con log.txt & blogspot.html"
+  648  git status
+  649  git push
+  650  git status
+  651  git log
+  652  git add .
+  653  git commit -m "Arruinado"
+  654  git log
+  655  git reset 37388f562994d6c13cfb60d502ebedf5e81d8db8
+  656  clear
+  657  code .
+  658  ls
+  659  git status
+  660  git add .
+  661  git status
+  662  code .
+  663  git reset 37388f562994d6c13cfb60d502ebedf5e81d8db8 --hard
+  664  git log
+  665  git add .
+  666  git commit -m "two paragraphs"
+  667  git add .
+  668  git status
+  669  mkdir css
+  670  git status
+  671  git diff
+  672  git add .
+  673  git status
+  674  git commit -m "Blog with css/styles"
+  675  git status
+  676  git log
+  677  git add .
+  678  git --stats
+  679  git --stat
+  680  git --status
+  681  git log --stat
+  682  git checkout 37388f562994d6c13cfb60d502ebedf5e81d8db8 biografia.txt
+  683  git status
+  684  git checkout master biografia.txt
+  685  git checkout main biografia.txt
+  686  mc
+  687  clear
+  688  ls
+  689  ls -al
+  690  git status
+  691  gid commit -am "Acá hacemos el primer commit al master, luego de practicar"
+  692  git commit -am "Acá hacemos el primer commit al master, luego de practicar"
+  693  git log --stat
+  694  git status
+  695  git show
+  696  git branch cabecera
+  697  git show
+  698  git status
+  699  git checkout cabecera
+  700  git status
+  701  clear
+  702  git status
+  703  git add blogpost.html 
+  704  git commit -m "estructura inicial de la cabecera"
+  705  git status
+  706  git show
+  707  git log
+  708  git checkout master
+  709  git checkout main
+  710  git status
+  711  git checkout cabecera
+  712  git add .
+  713  git status
+  714  clear
+  715  git remote add origin
+  716  git push -u origin main
+  717  git push -u origin cabecera
+  718  clear
+  719  git log
+  720  code .
+  721  cd ~
+  722  ls
+  723  cd PlatziGit
+  724  cd project1
+  725  ls -al
+  726  code
+  727  code .
+  728  mc
+  729  wpd
+  730  pwd
+  731  cd ..
+  732  cd PlatziBibliografiaTXT
+  733  ls
+  734  ls -al
+  735  cd PlatziBiografiaTXT/
+  736  code .
+  737  add .
+  738  git add .
+  739  gis status
+  740  git status
+  741  git commit -am "Ponemos un poco de pimienta en el BLOG, + CSS + Cabecera"
+  742  push
+  743  git push
+  744  git commit -am "Get back, to main. Without new features..."
+  745  push
+  746  git push
+  747  git show
+  748  git status
+  749  git checkout main
+  750  git status
+  751  git commit -am "Backup, con Silvia..."
+  752  git status
+  753  git checkout cabecera
+  754  git commit -am "guardo cambios cabecera AZUL"
+  755  git checkout main
+  756  git checkout cabecera
+  757  git show
+  758  clear
+  759  git status
+  760  git commit -am "git commit -am, CABECERA final x 2 Gab & Freddy"
+  761  git push
+  762  git checkout main
+  763  git commit -am "git commit -am, MAIN, ok, lo de Rocky..."
+  764  git push
+  765  git checkout cabecera
+  766  git status
+  767  git commit -am "Cabecera final, con los SPAM, de Freddy"
+  768  push 
+  769  git push
+  770  git status
+  771  git checkout main
+  772  git status
+  773  git checkout cabecera
+  774  git checkout main
+  775  git merge cabecera
+  776  git merge cabecera into main
+  777  git status
+  778  git commit -am "Final WORK, after MERGE, previous conflict"
+  779  git push
+  780  git log --status
+  781  git show --stats
+  782  git show --status
+  783  git show --stat
+  784  git stat
+  785  git status
+  786  push
+  787  git push
+  788  clear
+  789  git status
+  790  git commit -am "of HEAD, and RED"
+  791  git checkout cabecera
+  792  git commit -am "Cabecera AZUL"
+  793  gir checkout main
+  794  git checkout main
+  795  git merge cabecera
+  796  push 
+  797  git push
+  798  git commit -am "MAIN Final"
+  799  git push'
+  800  git push
+  801  git status
+  802  git checkout cabecera
+  803  git status
+  804  git push
+  805  cd ..
+  806  git clone https://github.com/freddier/hyperblog
+  807  ls
+  808  cd hyperblog
+  809  code .
+  810  cd ~
+  811  ssh -keygen
+  812  ssh-keygen -t rsa -b 4090 -C "gxsoft@gmail.com"
+  813  mc
+  814  M
+  815  MC
+  816  CD ~
+  817  CD ..
+  818  MC
+  819  code .
+  820  cd ~
+  821  code .
+  822  pwd
+  823  app-get kite
+  824  sudo apt install kite
+  825  sudo apt-get kite
+  826  sudo appt-get kite
+  827  sudo appt-get 
+  828  sudo appt-get
+  829  mc
+  830  cd
+  831  mc
+  832  eval $(ssh-agent -s)
+  833  cd ~
+  834  pwd
+  835  ls -al
+  836  cd ~
+  837  mc
+  838  ls
+  839  mc
+  840  ~/.ssh/
+  841  pdw
+  842  pwd
+  843  cd ~/.ssh
+  844  cd ~/.ssh/
+  845  ls -al
+  846  ssh-add ~/.ssh/id_rsa
+  847  history
+  848  vim
+  849  code .
+  850  git push
+  851  cd ~
+  852  ls
+  853  cd PlatziGit
+  854  ls
+  855  mc
+  856  ls
+  857  cd PlatziBiografiaTXT/
+  858  ls
+  859  ls -al
+  860  mc
+  861  git add .
+  862  commit -m "add everything, from linux 20210722 07:40hs"
+  863  git commit -m "add everything, from linux 20210722 07:40hs"
+  864  git status
+  865  git push
+  866  ssh-keygen -t rsa -b 4096 -C "gxsoft@gmail.com"
+  867  eval $(ssh-agent -s)
+  868  ssh-add ~.ssh/id_rsa
+  869  ssh-add ~/.ssh/id_rsa
+  870  mc
+  871  ssh-add ~/.ssh/id_rsa
+  872  git push
+  873  alias gittree="git log --all --graph --decorate --oneline"
+  874  gittree
+  875  git tag -a v0.1 -m "first version of BLOG" 5ee47f8 
+  876  git tag 
+  877  git show-ref --tags 
+  878  git status
+  879  git pull origin main
+  880  git push origin --tags
+  881  ssh-add ~/.ssh/id_rsa
+  882  mc
+  883  code .
+  884  ~
+  885  ssh-keygen -t rsa -b 4096 -C "gxsoft@gmail.com"
+  886  mc
+  887  cd !
+  888  cd
+  889  mc
+  890  ssh-keygen -t rsa -b 4096 -C "gxsoft@gmail.com"
+  891  ssh-add ~/.ssh/id_rsa
+  892  mc
+  893  eval $(ssh-agent -s)
+  894  ssh-add ~/.ssh/id_rsa
+  895  cd 
+  896  ls
+  897  cd PlatziGit
+  898  ls
+  899  git pull
+  900  git add .
+  901  git status
+  902  git push
+  903  git config --global
+  904  git config --list
+  905  git config --list --show-origin
+  906  git remote set-url origin git@github.com:gxsoft/PlatziBiografiaTXT.git
+  907  pull
+  908  git pull
+  909  git config --list 
+  910  code .
+  911  git push
+  912  exit
+  913  mc
+  914  cd..
+  915  cd~
+  916  cd
+  917  ls
+  918  cd PlatziGit
+  919  ls
+  920  cd PlatziBiografiaTXT
+  921  ls
+  922  mc
+  923  gittree
+  924* 
+  925  history >>borrar.txt

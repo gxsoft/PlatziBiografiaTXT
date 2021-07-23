@@ -1,0 +1,42 @@
+gxsoft@gabDell:~/PlatziGit/PlatziBiografiaTXT$ git config --list --show-origin
+file:/home/gxsoft/.gitconfig    user.email=gxsoft@gmail.com
+file:/home/gxsoft/.gitconfig    user.name=gxsoft
+file:.git/config        core.repositoryformatversion=0
+file:.git/config        core.filemode=true
+file:.git/config        core.bare=false
+file:.git/config        core.logallrefupdates=true
+file:.git/config        remote.origin.url=https://github.com/gxsoft/PlatziBiografiaTXT
+file:.git/config        remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+file:.git/config        branch.main.remote=origin
+file:.git/config        branch.main.merge=refs/heads/main
+file:.git/config        branch.cabecera.remote=origin
+file:.git/config        branch.cabecera.merge=refs/heads/cabecera
+gxsoft@gabDell:~/PlatziGit/PlatziBiografiaTXT$ git remote set-url origin git@github.com:gxsoft/PlatziBiografiaTXT.git
+gxsoft@gabDell:~/PlatziGit/PlatziBiografiaTXT$ pull
+
+Command 'pull' not found, did you mean:
+
+  command 'publ' from deb atfs (1.4pl6-14)
+
+Try: sudo apt install <deb name>
+
+gxsoft@gabDell:~/PlatziGit/PlatziBiografiaTXT$ git pull
+The authenticity of host 'github.com (20.201.28.151)' can't be established.
+RSA key fingerprint is SHA256:nThbg6kXUpJWGl7E1IGOCspRomTxdCARLviKw6E5SY8.
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Warning: Permanently added 'github.com,20.201.28.151' (RSA) to the list of known hosts.
+Already up to date.
+gxsoft@gabDell:~/PlatziGit/PlatziBiografiaTXT$ git config --list
+user.email=gxsoft@gmail.com
+user.name=gxsoft
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=git@github.com:gxsoft/PlatziBiografiaTXT.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.main.remote=origin
+branch.main.merge=refs/heads/main
+branch.cabecera.remote=origin
+branch.cabecera.merge=refs/heads/cabecera
+gxsoft@gabDell:~/PlatziGit/PlatziBiografiaTXT$
